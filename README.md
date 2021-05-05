@@ -1,8 +1,8 @@
 # Stroke_Analysis_and_Prediction
-Use of Machine Learning and Tableau Dashboards to Help Predict Strokes and Understand Contributing Factors
+### Use of Machine Learning and Tableau Dashboards to Help Predict Strokes and Understand Contributing Factors
 
 
-### To review project files and access Heroku link open Stroke folder
+### Select Stroke folder to review project files and access Heroku link 
 
 ## Executive Summary
 Cerebrovascular accidents (strokes) in 2020 were the 5th leading cause of death in the United States. 
