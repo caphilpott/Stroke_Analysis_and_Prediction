@@ -1,6 +1,4 @@
 # Stroke_Analysis_and_Prediction
-### Use of Machine Learning and Tableau Dashboards to Help Predict Strokes and Understand Contributing Factors
-
 
 ### Select Stroke folder to review project files and access Heroku link 
 
